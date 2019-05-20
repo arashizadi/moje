@@ -1,4 +1,4 @@
-# Moje ver 0.322
+# Moje
 
 # Dedicated to the New York City College of Technology department of Entertainment Technology
 
